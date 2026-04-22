@@ -16,3 +16,5 @@ results = arithmetic(num1, num2)
 # print(results)
 for operation, result in results.items():
     print(f"{operation}: {result}") 
+
+print("This is working")
