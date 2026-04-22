@@ -20,3 +20,5 @@ for operation, result in results.items():
 print("This is working")
 
 print("Im testing something")
+
+print("Another test")
