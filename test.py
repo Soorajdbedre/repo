@@ -18,3 +18,5 @@ for operation, result in results.items():
     print(f"{operation}: {result}") 
 
 print("This is working")
+
+print("Im testing something")
